@@ -8,7 +8,7 @@ app = Flask(__name__, static_folder='static', static_url_path='/static')
 
 TITLE_ID = "ECCFF"
 SECRET_KEY = "AHB8OCJMJA6D4XXXRNO1I5FGO4KHXZWCP6IGKSN4RJOZYC7WCO"
-OCULUS_KEY = "OC|1199400215657619|511f5c06cc4357eedc1f68418bce155d" 
+OCULUS_KEY = "OC|1179071591961775|4ab0641ca9afc14d61a7f49fb84ffd3a" 
 DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1523474996742197309/rxe9laNk7Lyu4TIkvqSerfw4DVHFKymBvLrrEn3OoVbWqonZP42o0lmpkmTEXwgxVtiv"
 
 def get_ip():
